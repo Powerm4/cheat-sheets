@@ -503,6 +503,7 @@
      - [Vengeance UI 2.0](https://www.vengenceui.com/)
      - [uselayouts](https://uselayouts.com/)
      - [BadtzUI](https://www.badtz-ui.com/)
+     - [uitripled](https://github.com/moumen-soliman/uitripled)
      - [React Wheel Picker](https://react-wheel-picker.chanhdai.com/)
      - [shadcn-prose](https://shadcn-prose.vercel.app/)
      - [spaceman-rta](https://spaceman-rta-vite.netlify.app/)
@@ -789,6 +790,7 @@
 ## Vue Component Libraries
 
 - [shadcn-vue](https://www.shadcn-vue.com/)
+  - [Vuzeno](https://vuzeno.com/)
 - [Nuxt UI](https://ui4.nuxt.com/) - [Reka UI](https://reka-ui.com/)
 - [Vue Bits](https://vue-bits.dev/)
 - [Inspira UI](https://inspira-ui.com/)
