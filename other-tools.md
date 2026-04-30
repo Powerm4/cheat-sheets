@@ -319,6 +319,12 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 - `shell:common startup`
 - `services.msc`
 - `netplwiz`
+- `resmon` more info than task manager
+- `ncpa.cpl` network adapter
+- `shell:history` last 3 weeks history
+- `inetcpl.cpl` internet security settings
+- `shrpubw` create shared folder on local network
+- `mdsched` run memory diagnostic on rebot
 - `SystemPropertiesAdvanced` to see windows users list
 - `chrome.exe --user-data-dir="c:/ChromeDevSession"`
 
