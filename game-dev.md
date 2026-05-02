@@ -291,6 +291,7 @@
   11. [free3d](https://free3d.com/)
   12. [3Delicious](https://3delicious.net/)
   13. [Archive3D](https://archive3d.net/)
+  14. [superspl](https://superspl.at/) The Home for 3D Gaussian Splatting
 
 - ## Texture-Material-Shader
   1. [Quixel](https://quixel.com/megascans/free)
