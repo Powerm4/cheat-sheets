@@ -465,9 +465,10 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 7. [FunKey-OS](https://github.com/FunKey-Project/FunKey-OS)
 8. [SideStore](https://github.com/SideStore/SideStore/) - [ManicEMU](https://github.com/Manic-EMU/ManicEMU) - [dolphin-ios](https://github.com/OatmealDome/dolphin-ios) - [MeloNX](https://git.ryujinx.app/projects/MeloNX) - [XeniOS](https://github.com/xenios-jp/XeniOS) - [iPSX2](https://github.com/otti83/iPSX2)
 9. [lutris](https://github.com/lutris/lutris)
-10. []()
-11. [nostlan](https://quinton-ashley.itch.io/nostlan)
-12. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
+10. [Romspedia](https://www.romspedia.com/)
+11. []()
+12. [nostlan](https://quinton-ashley.itch.io/nostlan)
+13. [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher)
 
 # Misce Repos
 
