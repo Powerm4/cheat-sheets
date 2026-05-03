@@ -595,6 +595,7 @@
   36. [Quake](https://github.com/id-Software/Quake) - [Quake-2](https://github.com/id-Software/Quake-2) - [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)
   37. [moai-dev](https://github.com/moai/moai-dev)
   38. [stepmania](https://github.com/stepmania/stepmania)
+  39. [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) - [Needlework](https://github.com/BlossomiShymae/Needlework)
 
 - ## Websites for Blender User
   1. [blenderartists](https://blenderartists.org/)
