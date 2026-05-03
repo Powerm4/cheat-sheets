@@ -62,6 +62,8 @@
     - [Component Libraries](#angular-component-libraries)
   - [Vue](#vue)
     - [Component Libraries](#vue-component-libraries)
+  - [Svelte](#svelte)
+    - [Component Libraries](#svelte-component-libraries)
 - [Backend](#backend)
   - [Backend Framework](#backend-framework)
   - [Backend as a Service and Database](#backend-as-a-service-and-database)
@@ -821,6 +823,12 @@
 ## Vue Documentation
 
 - [VitePress](https://vitepress.dev/)
+
+# Svelte
+
+## Svelte Component Libraries
+
+- [Svelte Animations](https://sv-animations.vercel.app/)
 
 # Backend
 
