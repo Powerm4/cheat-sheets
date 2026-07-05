@@ -86,6 +86,7 @@
   12. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
   13. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
   14. [headroom](https://github.com/headroomlabs-ai/headroom)
+  15. [brain.md](https://github.com/mindmuxai/brain.md)
 
 - ## AI Code Editors
   1. [Cursor](https://www.cursor.com/)
