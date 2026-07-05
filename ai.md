@@ -10,7 +10,7 @@
   - [AI Companion](#ai-companion)
   - [Free AI and LLMs Playgrounds](#free-ai-and-llms-playgrounds)
   - [Locally Running LLM](#locally-running-llm)
-  - [Other Local AI](#other-local-ai)
+  - [Portable Local AI](#portable-local-ai)
   - [Video Gen](#video-gen)
   - [Voice Gen](#voice-gen)
   - [Image Gen AI Websites](#image-gen-ai-websites)
@@ -149,9 +149,13 @@
   7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
   8. [Jan](https://jan.ai/)
 
-- ## Other Local AI
-  1. [USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
-  2. [Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB)
+- ## Portable Local AI
+  1. [Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio)
+  2. [Odysseus-Portable](https://github.com/techjarves/Odysseus-Portable)
+  3. [hermes-usb-portable](https://github.com/techjarves/hermes-usb-portable)
+  4. [OpenClaw-USB-Portable](https://github.com/techjarves/OpenClaw-USB-Portable)
+  5. [OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
+  6. [cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
 - ## Video Gen
   1. [OpenMontage](https://github.com/calesthio/OpenMontage)
