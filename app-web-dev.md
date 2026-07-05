@@ -417,7 +417,7 @@
 - ## Other Tools
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) - [Kivo](https://github.com/dexter-xD/Kivo) - [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
   2. [yakit](https://github.com/yaklang/yakit) - [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
-  3. [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad) - [orca-q](https://github.com/cin12211/orca-q)
+  3. [dbx](https://github.com/t8y2/dbx) - [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad) - [orca-q](https://github.com/cin12211/orca-q)
   4. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
   5. [chartdb](https://github.com/chartdb/chartdb)
   6. [Partytown](https://github.com/BuilderIO/partytown)
