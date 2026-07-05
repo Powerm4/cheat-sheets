@@ -673,6 +673,7 @@
     - [Flitter](https://flitter.dev/) A JavaScript rendering engine for next-level web graphics.
     - [RacingBars](https://racing-bars.hatemhosny.dev/)
     - [d3js](https://d3js.org/)
+    - [d3-maps](https://github.com/souljorje/d3-maps) Interactive SVG maps toolkit
     - [tremor](https://www.tremor.so/)
     - [TanStack Table](https://tanstack.com/table/v8)
     - [tanstack-virtual](https://tanstack.com/virtual/latest)
