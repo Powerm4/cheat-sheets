@@ -119,9 +119,8 @@
   15. [rio - WebApps in pure Python](https://github.com/rio-labs/rio)
   16. [riot](https://github.com/riot/riot)
   17. [Nuejs](https://github.com/nuejs/nuejs)
-  18. [Yew](https://github.com/yewstack/yew)
-  19. [Stimulus](https://github.com/hotwired/stimulus)
-  20. [Hibiki HTML](https://github.com/dashborg/hibiki)
+  18. [Stimulus](https://github.com/hotwired/stimulus)
+  19. [Hibiki HTML](https://github.com/dashborg/hibiki)
 
 - ## Mock Up Tools
   1. [shots](https://shots.so/)
@@ -981,14 +980,28 @@
   7. [Eel](https://github.com/python-eel/Eel)
   8. [abstra](https://github.com/abstra-app/abstra-lib)
 - ### Rust
-  1. [Floem](https://github.com/lapce/floem)
-  2. [Pake](https://github.com/tw93/Pake)
-  3. [Slint](https://github.com/slint-ui/slint)
-  4. [Druid](https://github.com/linebender/druid)
-  5. [EGUI](https://github.com/emilk/egui)
-  6. [Iced](https://github.com/iced-rs/iced)
-  7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
-  8. [Dioxus](https://github.com/DioxusLabs/dioxus)
+  - GUI
+    1. [Floem](https://github.com/lapce/floem)
+    2. [Pake](https://github.com/tw93/Pake)
+    3. [Slint](https://github.com/slint-ui/slint)
+    4. [Druid](https://github.com/linebender/druid)
+    5. [EGUI](https://github.com/emilk/egui)
+    6. [Iced](https://github.com/iced-rs/iced)
+    7. [GTK 4](https://github.com/gtk-rs/gtk4-rs)
+    8. [Dioxus](https://github.com/DioxusLabs/dioxus)
+    9. [gpui-rsx](https://github.com/wsafight/gpui-rsx) - [gpui-component](https://github.com/longbridge/gpui-component)
+    10. [zenthra-v2](https://github.com/kabirajpan/zenthra-v2)
+    11. [xilem](https://github.com/linebender/xilem)
+    12. [relm4](https://github.com/Relm4/relm4)
+  - TUI
+    1. [ratatui](https://github.com/ratatui/ratatui) - [tui-realm](https://github.com/veeso/tui-realm)
+    2. [opentui_rust](https://github.com/Dicklesworthstone/opentui_rust)
+    3. [iocraft](https://github.com/ccbrown/iocraft)
+    4. [awesome-ratatui](https://github.com/ratatui/awesome-ratatui)
+  - WASM
+    1. [leptos](https://github.com/leptos-rs/leptos)
+    2. [yew](https://github.com/yewstack/yew)
+    3. [dioxus](https://github.com/DioxusLabs/dioxus)
 - ### GO
   1. [Wails](https://github.com/wailsapp/wails)
   2. [Muon](https://github.com/ImVexed/muon)
