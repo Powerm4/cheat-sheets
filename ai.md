@@ -69,6 +69,7 @@
 - ## AI Code Reviewer
   1. [CodeRabbit](https://www.coderabbit.ai/)
   2. [Greptile](https://www.greptile.com/)
+  3. [Graphite](https://graphite.com/)
 
 - ## AI Skills & Context
   1. [Skills](https://www.skills.sh/)
