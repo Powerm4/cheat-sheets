@@ -3,6 +3,8 @@
 
 # <p align="center">🔖Web Dev Tools</></p>
 
+- [API Clients](#api-clients)
+- [Database Clients](#database-clients)
 - [Frontend](#frontend)
   - [Useful Links](#useful-links)
     - [JavaScript Runtime](#javascript-runtime)
@@ -70,6 +72,40 @@
   - [ASP.NET](#aspnet)
     - [Library List](#library-list)
     - [Links](#links)
+
+# API Clients
+
+- GUI
+  1. [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+  2. [insomnia](https://github.com/Kong/insomnia)
+  3. [Bruno](https://github.com/usebruno/bruno)
+  4. [Scalar](https://github.com/scalar/scalar)
+  5. [Yaak](https://github.com/yaakapp/app)
+  6. [Kivo](https://github.com/dexter-xD/Kivo)
+- CLI
+  1. [HTTPie](https://github.com/httpie/cli)
+  2. [Hurl](https://github.com/Orange-OpenSource/hurl)
+  3. [Posting](https://github.com/darrenburns/posting)
+- Interceptor, Proxies, Testing & Mocking
+  1. [mockoon](https://github.com/mockoon/mockoon)
+  2. [Requestly](https://github.com/requestly/requestly/)
+  3. [yakit](https://github.com/yaklang/yakit)
+
+# Database Clients
+
+1. [dbeaver](https://github.com/dbeaver/dbeaver)
+2. [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio)
+3. [tabularis](https://github.com/TabularisDB/tabularis)
+4. [dbgate](https://github.com/dbgate/dbgate)
+5. [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
+6. [TablePlus](https://tableplus.com/)
+7. [dbx](https://github.com/t8y2/dbx)
+8. [Outerbase](https://github.com/outerbase/studio)
+9. [orca-q](https://github.com/cin12211/orca-q)
+10. [Conar](https://github.com/wannabespace/conar)
+11. [pgpad](https://github.com/vrmiguel/pgpad)
+12. [PostgreSQL](https://github.com/microsoft/vscode-pgsql)
+13. [awesome-sql](https://github.com/brandonhimpfen/awesome-sql)
 
 # Frontend
 
@@ -415,21 +451,15 @@
   11. [cal.com](https://github.com/calcom/cal.com)
 
 - ## Other Tools
-  1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) - [Kivo](https://github.com/dexter-xD/Kivo) - [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
-  2. [yakit](https://github.com/yaklang/yakit) - [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
-  3. [dbx](https://github.com/t8y2/dbx) - [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad) - [orca-q](https://github.com/cin12211/orca-q)
   4. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
   5. [chartdb](https://github.com/chartdb/chartdb)
   6. [Partytown](https://github.com/BuilderIO/partytown)
-  7. [mockoon](https://github.com/mockoon/mockoon)
-  8. [trpc](https://github.com/trpc/trpc)
-  9. [responsively-app](https://github.com/responsively-org/responsively-app)
-  10. [atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine)
-  11. [e2b](https://github.com/e2b-dev/e2b)
-  12. [arrow-js](https://github.com/justin-schroeder/arrow-js)
-  13. [uvicorn](https://github.com/encode/uvicorn)
-  14. [motionity](https://github.com/alyssaxuu/motionity)
-  15. [Danfo.js](https://github.com/javascriptdata/danfojs)
+  7. [trpc](https://github.com/trpc/trpc)
+  8. [responsively-app](https://github.com/responsively-org/responsively-app)
+  9. [e2b](https://github.com/e2b-dev/e2b)
+  10. [arrow-js](https://github.com/justin-schroeder/arrow-js)
+  11. [uvicorn](https://github.com/encode/uvicorn)
+  12. [Danfo.js](https://github.com/javascriptdata/danfojs)
 
 # React
 
