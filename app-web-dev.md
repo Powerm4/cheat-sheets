@@ -44,6 +44,7 @@
     - [Payment Methods](#payment-methods)
     - [Email Sending Service](#email-sending-service)
     - [SMS Sending Service](#sms-sending-service)
+    - [Code Editor](#code-editor)
     - [Markdown/Rich Text Editor](#markdown-rich-text-editor)
     - [Tour Guide](#tour-guide)
     - [HTTP](#http)
@@ -710,7 +711,13 @@
     - [Plivo](https://www.plivo.com/sms/) $10 credit (~500 US SMS), pay-as-you-go after. $0.0055/outbound US SMS.
     - [Sinch](https://sinch.com/) 100 SMS trial, free inbound. $0.007/outbound US SMS.
     - [Vonage](https://www.vonage.com/communications-apis/messages/) $10 credit (~600 US SMS), free inbound. $0.0065/outbound US SMS.
-17. #### Markdown Rich Text Editor
+17. #### Code Editor
+    - [Monaco Editor](https://github.com/microsoft/monaco-editor) - [React Monaco Editor](https://github.com/react-monaco-editor/react-monaco-editor) - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react)
+    - [CodeMirror](https://code.haverbeke.berlin/codemirror/dev/) - [react-codemirror](https://github.com/uiwjs/react-codemirror)
+    - [shiki](https://github.com/shikijs/shiki)
+    - [prism](https://github.com/PrismJS/prism/)
+    - [ace](https://github.com/ajaxorg/ace)
+18. #### Markdown Rich Text Editor
     - [blocksuite](https://blocksuite.io/)
     - [platejs](https://platejs.org/)
     - [blocknotejs](https://www.blocknotejs.org/)
@@ -721,8 +728,8 @@
     - [yoopta](https://yoopta.dev/)
     - [tiptap](https://tiptap.dev/)
     - [Muyu](https://github.com/marktext/muya)
-    - [shiki](https://github.com/shikijs/shiki)
-18. #### Tour Guide
+    - [overleaf](https://github.com/overleaf/overleaf)
+19. #### Tour Guide
     - [react-joyride](https://react-joyride.com/)
     - [driver.js](https://driverjs.com/)
     - [introjs](https://introjs.com/)
@@ -731,23 +738,23 @@
     - [flows](https://flows.sh/)
     - [shepherdjs](https://shepherdjs.dev/)
     - [bootstraptour](https://bootstraptour.com/)
-19. #### HTTP
+20. #### HTTP
     - [Axios](https://axios-http.com/docs/intro)
     - [Ky](https://github.com/sindresorhus/ky)
     - [Better Fetch](https://github.com/bekacru/better-fetch)
     - [Wretch](https://github.com/elbywan/wretch)
     - [Ofetch](https://github.com/unjs/ofetch)
     - [Alova](https://github.com/alovajs/alova)
-20. #### Date Time
+21. #### Date Time
     - [luxon](https://moment.github.io/luxon/#/)
     - [dayjs](https://github.com/iamkun/dayjs)
     - [date-fns](https://github.com/date-fns/date-fns)
     - [spacetime](https://github.com/spencermountain/spacetime)
     - [moment](https://github.com/moment/moment/)
-21. #### Internationalization
+22. #### Internationalization
     - [react-i18next](https://react.i18next.com/)
     - [FormatJS](https://formatjs.io/docs/react-intl/)
-22. #### Analytics
+23. #### Analytics
     - [Sentry](https://github.com/getsentry/sentry)
     - [Metabase](https://github.com/metabase/metabase)
     - [PostHog](https://github.com/PostHog/posthog)
@@ -758,35 +765,35 @@
     - [GoAccess](https://github.com/allinurl/goaccess)
     - [OpenReplay](https://github.com/openreplay/openreplay/)
     - [Countly](https://github.com/countly/countly-server)
-23. #### Rendering Performance
+24. #### Rendering Performance
     - [RSC Boundary](https://github.com/foxted/rsc-boundary) See where Server Components end and Client Components begin—directly in the browser, on your real app.
     - [million](https://million.dev/) Speed up your website by 70%.
     - [React Scan](https://github.com/aidenybai/react-scan) - automatically detects performance issues in your React app.
     - [React Doctor](https://github.com/millionco/react-doctor)
     - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
     - [ForesightJS](https://foresightjs.com/)
-24. #### Testing
+25. #### Testing
     - [Vitest](https://vitest.dev/)
     - [Cypress](https://cypress.io/)
     - [Playwright](https://playwright.dev/)
     - [Jest](https://jestjs.io/)
     - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-25. #### Documentation
+26. #### Documentation
     - [Fumadocs](https://fumadocs.dev/)
     - [Docusaurus](https://docusaurus.io/)
     - [Nextra](https://nextra.site/)
     - [Starlight](https://starlight.astro.build/)
-26. #### Type Checking
+27. #### Type Checking
     - [TypeScript](https://www.typescriptlang.org/)
     - [JSDoc](https://jsdoc.app/)
-27. #### Visual Editors
+28. #### Visual Editors
     - [penpot](https://github.com/penpot/penpot)
     - [Onlook](https://github.com/onlook-dev/onlook)
     - [Codux](https://www.codux.com/)
     - [Framer](https://www.framer.com/)
     - [Framely](https://github.com/belastrittmatter/Framely)
     - [craft.js](https://github.com/prevwong/craft.js)
-28. #### Other Libraries
+29. #### Other Libraries
     - [Jazz](https://jazz.tools/) is a local-first relational database. It runs across your frontend, backend and our global storage cloud.
     - [NeverThrow](https://github.com/supermacro/neverthrow) Type-Safe Errors for JS & TypeScript
     - [c15t](https://c15t.com/) is the open source web standard for managing consent and script loading.
@@ -799,7 +806,7 @@
     - [react-tweet](https://react-tweet.vercel.app/) Allows you to embed tweets in your React application.
     - [react-advanced-cropper](https://advanced-cropper.github.io/react-advanced-cropper/) This react cropper library gives you the possibility to create croppers that exactly suited for your website design.
     - [json-editor](https://github.com/json-editor/json-editor) JSON Editor takes a JSON Schema and uses it to generate an HTML form.
-29. #### DevTools
+30. #### DevTools
     - [React Developer Tools (chrome link)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
     - [Redux DevTools (chrome link)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
     - [Testing Playground (chrome link)](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
