@@ -1012,6 +1012,11 @@
 - ### Dart
   1. [Flutter](https://github.com/flutter/flutter)
 
+# Tauri Libraries
+
+1. [tauri-controls](https://github.com/agmmnn/tauri-controls)
+2. [tauri-ui](https://github.com/agmmnn/tauri-ui)
+
 # React Native Libraries
 
 - ## Getting Started
