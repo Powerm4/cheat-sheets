@@ -154,16 +154,17 @@
 - ## Js Links
   1. [liquidGL – Ultra-light glassmorphism for the web](https://github.com/naughtyduk/liquidGL)
   2. [JavaScript Visualizer 9000](https://www.jsv9000.app/)
-  3. [swiperjs](https://swiperjs.com/)
-  4. [kute](https://thednp.github.io/kute.js/)
-  5. [emailjs](https://www.emailjs.com/)
-  6. [turnjs](http://turnjs.com/)
-  7. [leafletjs](https://leafletjs.com/)
-  8. [particles](https://vincentgarreau.com/particles.js/)
-  9. [desandro](https://masonry.desandro.com/)
-  10. [konvajs](https://konvajs.org/)
-  11. [popper](https://popper.js.org/)
-  12. [tweenjs](https://github.com/tweenjs/tween.js/)
+  3. [es-toolkit](https://github.com/toss/es-toolkit)
+  4. [swiperjs](https://swiperjs.com/)
+  5. [kute](https://thednp.github.io/kute.js/)
+  6. [emailjs](https://www.emailjs.com/)
+  7. [turnjs](http://turnjs.com/)
+  8. [leafletjs](https://leafletjs.com/)
+  9. [particles](https://vincentgarreau.com/particles.js/)
+  10. [desandro](https://masonry.desandro.com/)
+  11. [konvajs](https://konvajs.org/)
+  12. [popper](https://popper.js.org/)
+  13. [tweenjs](https://github.com/tweenjs/tween.js/)
 
 - ## CSS Links
   1. [analyze-css](https://www.projectwallace.com/analyze-css)
@@ -415,7 +416,7 @@
 
 - ## Other Tools
   1. [hoppscotch](https://github.com/hoppscotch/hoppscotch) - [insomnia](https://github.com/Kong/insomnia) - [Yaak](https://github.com/yaakapp/app) - [Bruno](https://github.com/usebruno/bruno) - [Scalar](https://github.com/scalar/scalar) - [Kivo](https://github.com/dexter-xD/Kivo) - [Posting](https://github.com/darrenburns/posting) - [Hurl](https://github.com/Orange-OpenSource/hurl) - [HTTPie](https://github.com/httpie/cli)
-  2. [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
+  2. [yakit](https://github.com/yaklang/yakit) - [Requestly](https://github.com/requestly/requestly/) - API Client with HTTP Interceptor, Modfications, Testing & Mocking.
   3. [Beekeeper](https://github.com/beekeeper-studio/beekeeper-studio) - [TablePlus](https://tableplus.com/) - [Outerbase](https://github.com/outerbase/studio) - [Conar](https://github.com/wannabespace/conar) - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - [PostgreSQL](https://github.com/microsoft/vscode-pgsql) - [pgpad](https://github.com/vrmiguel/pgpad) - [orca-q](https://github.com/cin12211/orca-q)
   4. [meilisearch](https://github.com/meilisearch/meilisearch) - [zincsearch](https://github.com/zincsearch/zincsearch)
   5. [chartdb](https://github.com/chartdb/chartdb)
@@ -496,6 +497,7 @@
    - [Simple.css](https://github.com/kevquirk/simple.css)
    - [twin.macro](https://github.com/ben-rogerson/twin.macro)
    - [Emotion](https://github.com/emotion-js/emotion)
+   - [ds.css](https://css.ds.dreamyard.xyz/)
 8. #### UI Component
    - [shadcn/ui](https://ui.shadcn.com/) - [tweakcn](https://tweakcn.com/) - [ShadCN Themes](https://shadcnthemer.com/) - [shoogle](https://shoogle.dev/)
      - [radix](https://www.radix-ui.com/) - [base-ui](https://base-ui.com/)
@@ -591,6 +593,7 @@
    - [Gestalt](https://github.com/pinterest/gestalt)
    - [grommet](https://github.com/grommet/grommet)
    - [Shoelace](https://shoelace.style/)
+   - [basecoatui](https://basecoatui.com/)
 9. #### Other UI libs
    - [react-call](https://github.com/desko27/react-call)
    - [Ink](https://github.com/vadimdemedes/ink) provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
