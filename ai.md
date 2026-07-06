@@ -57,7 +57,7 @@
   7. [Superpowers](https://github.com/obra/Superpowers)
   8. [marketingskills](https://github.com/coreyhaines31/marketingskills)
   9. [Skills For Real Engineers](https://github.com/mattpocock/skills)
-  10. [skillspector](https://github.com/nvidia/skillspector)
+  10. [skillspector](https://github.com/nvidia/skillspector) - [repo-forensics](https://github.com/alexgreensh/repo-forensics)
   11. [pm-skills](https://github.com/phuryn/pm-skills)
   12. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
   13. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
