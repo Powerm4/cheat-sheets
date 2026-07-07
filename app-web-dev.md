@@ -1008,6 +1008,7 @@
   9. [U++](https://github.com/ultimatepp/ultimatepp)
   10. [cegui](https://github.com/cegui/cegui)
   11. [cef](https://bitbucket.org/chromiumembedded/cef/src/master/)
+  12. [imgui](https://github.com/ocornut/imgui)
 - ### Python
   1. [Toga](https://github.com/beeware/toga)
   2. [Flet](https://github.com/flet-dev/flet)
@@ -1017,6 +1018,23 @@
   6. [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
   7. [Eel](https://github.com/python-eel/Eel)
   8. [abstra](https://github.com/abstra-app/abstra-lib)
+- ### ZIG
+  - GUI
+    1. [dvui](https://github.com/david-vanderson/dvui)
+    2. [capy](https://github.com/capy-ui/capy)
+    3. [zylix](https://github.com/kotsutsumi/zylix)
+    4. [knots](https://codeberg.org/shahwali/knots)
+    5. [zig-webui](https://github.com/webui-dev/zig-webui)
+  - TUI
+    1. [zigzag](https://github.com/meszmate/zigzag)
+    2. [tui.zig](https://github.com/muhammad-fiaz/tui.zig)
+    3. [libvaxis](https://github.com/rockorager/libvaxis)
+    4. [zigtui](https://github.com/adxdits/zigtui)
+    5. [sokol-zig](https://github.com/floooh/sokol-zig)
+  - CLI
+    1. [zli](https://github.com/xcaeser/zli)
+    2. [zig-cli](https://github.com/sam701/zig-cli)
+    3. [yazap](https://github.com/prajwalch/yazap)
 - ### Rust
   - GUI
     1. [Floem](https://github.com/lapce/floem)
