@@ -126,6 +126,15 @@
   1. [Project AIRI](https://github.com/moeru-ai/airi)
   2. [Bella](https://github.com/Jackywine/Bella)
 
+- ## AI Agent Optimization
+  1. [autoresearch](https://github.com/karpathy/autoresearch)
+  2. [SkillOpt](https://github.com/microsoft/SkillOpt)
+  3. [rd-agent](https://github.com/microsoft/rd-agent)
+  4. [Fully Automated Prompt Optimization](https://github.com/cisco-foundation-ai/fully-automated-prompt-optimization)
+  5. [PromptWizard](https://github.com/microsoft/PromptWizard/)
+  6. [promptomatix](https://github.com/salesforceairesearch/promptomatix)
+  7. [awesome-ai-agents-for-ml](https://github.com/OpenJobsAI/awesome-ai-agents-for-ml)
+
 - ## Free AI and LLMs Playgrounds
   1. [Chatbot Arena](https://chat.lmsys.org/)
   2. [Vercel AI Playground](https://play.vercel.ai/)
