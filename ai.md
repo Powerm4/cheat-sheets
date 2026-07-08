@@ -63,6 +63,7 @@
   13. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
   14. [headroom](https://github.com/headroomlabs-ai/headroom)
   15. [brain.md](https://github.com/mindmuxai/brain.md)
+  16. [mattpocock/skills](https://github.com/mattpocock/skills)
 
 - ## AI Web Builders
   1. [Orchids](https://www.orchids.app/)
