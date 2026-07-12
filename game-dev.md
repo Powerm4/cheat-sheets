@@ -332,6 +332,9 @@
   5. [Craft Pix](https://craftpix.net/)
   6. [Game Dev Market](https://www.gamedevmarket.net)
 
+- ## 2d Assets Generator
+  1. [LPC Spritesheet Character Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
+
 - ## Logo maker
   1. [TheHoth](https://logomaker.thehoth.com)
   2. [Logomakr](https://logomakr.com)
