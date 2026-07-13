@@ -348,9 +348,12 @@
 
 - ## Video Recorder
   1. [OBS Studio](https://obsproject.com/)
-  2. [Recordly](https://github.com/webadderall/Recordly)
-  3. [openscreen](https://github.com/siddharthvaddem/openscreen)
-  4. [openvid](https://github.com/CristianOlivera1/openvid)
+  2. [Streamlabs](https://github.com/streamlabs/desktop) - [Meld](https://meldstudio.co/) - [Prism](https://prismlive.com/)
+  3. [ASCENT](https://www.tryascent.gg/) - [Medal](https://medal.tv/) - [Outplayed](https://www.overwolf.com/app/overwolf-outplayed)
+  4. [videorc](https://github.com/TheOrcDev/videorc)
+  5. [Recordly](https://github.com/webadderall/Recordly)
+  6. [openvid](https://github.com/CristianOlivera1/openvid)
+  7. [openscreen](https://github.com/siddharthvaddem/openscreen)
 
 - ## Video Editor
   1. [CapCut](https://www.capcut.com/) - [opencut](https://github.com/opencut-app/opencut)
