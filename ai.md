@@ -23,6 +23,8 @@
 
 # 🤖AI🤖
 
+[AI Stack](https://aistack.to/) SEE EXACTLY WHAT REAL BUILDERS USE TO SHIP
+
 - ## Chat AI
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
   2. [Gemini](https://gemini.google.com/) - [NotebookLM](https://notebooklm.google/)
