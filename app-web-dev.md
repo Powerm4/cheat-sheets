@@ -604,6 +604,7 @@
      - [grootstudio](https://grootstudio.dev/)
      - [vengenceui](https://www.vengenceui.com/)
      - [kairoui](https://www.kairoui.online/)
+     - [evilbuttons](https://www.evilbuttons.com/)
      - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
    - [DiMaac](https://ui.dimaac.com/)
    - [NeonBlade UI](https://neonbladeui.neuronrush.com/)
@@ -700,6 +701,7 @@
     - [react-doc-viewer](https://github.com/cyntler/react-doc-viewer)
 13. #### Data Visualization Chart Table
     - [EvilCharts](https://evilcharts.com/)
+    - [dither-kit](https://www.tripwire.sh/dither-kit)
     - [VictoryChart](https://formidable.com/open-source/victory/docs/victory-chart/)
     - [react-chartjs-2](https://react-chartjs-2.js.org/)
     - [Recharts](https://recharts.org/en-US/)
@@ -750,6 +752,7 @@
     - [shiki](https://github.com/shikijs/shiki)
     - [prism](https://github.com/PrismJS/prism/)
     - [ace](https://github.com/ajaxorg/ace)
+    - [code-blocks](https://code-blocks.pheralb.dev/)
 18. #### Markdown Rich Text Editor
     - [blocksuite](https://blocksuite.io/)
     - [platejs](https://platejs.org/)
@@ -887,6 +890,7 @@
    - [Naïve UI](https://www.naiveui.com/en-US/os-theme)
    - [Equal UI](https://equal-ui.github.io/Equal/)
    - [Buefy](https://buefy.org/)
+   - [nxui](https://nxui.geoql.in/docs)
    - [Vue File Manager](https://vuefinder.ozdemir.be/)
    - [BootstrapVue](https://bootstrap-vue.org/)
 2. #### Vue Store
