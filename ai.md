@@ -28,7 +28,7 @@
 - ## Chat AI
   1. [WebDev Arena](https://web.lmarena.ai/) - [LM Arena](https://lmarena.ai/)
   2. [Gemini](https://gemini.google.com/) - [NotebookLM](https://notebooklm.google/)
-  3. [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
+  3. [Z](https://chat.z.ai/) - [DeepSeek](https://www.deepseek.com/) - [Kimi](https://kimi.ai/) - [Qwen](https://chat.qwen.ai/)
   4. [Claude](https://claude.ai/) - [Grok](https://x.ai/) - [Chat GPT](https://chatgpt.com/)
   5. [Free ChatGPT Acc](https://chatgptplus.cn/) - [ChatGPT Free](https://chatgptfree.ai/)
   6. [PageLM](https://github.com/CaviraOSS/PageLM)
@@ -88,9 +88,9 @@
 - ## AI Code Editors
   1. [Cursor](https://www.cursor.com/)
   2. [Trae](https://www.trae.ai/)
-  3. [Kiro](https://kiro.dev/)
-  4. [Antigravity](https://antigravity.google/)
-  5. [Devin](https://devin.ai/)
+  3. [Antigravity](https://antigravity.google/)
+  4. [Devin](https://devin.ai/)
+  5. [Kiro](https://kiro.dev/)
   6. [minimax ](https://agent.minimax.io/)
   7. [Augment Code](https://www.augmentcode.com/) - [OpenRouter](https://openrouter.ai/)
   8. [Kilo Code](https://github.com/Kilo-Org/kilocode) - [Cline](https://cline.bot/)
@@ -147,6 +147,7 @@
   6. [Open Assistant](https://open-assistant.io/)
 
 - ## Locally Running LLM
+  0. [unsloth](https://github.com/unslothai/unsloth)
   1. [LM Studio](https://lmstudio.ai/)
   2. [Open WebUI](https://github.com/open-webui/open-webui)
   3. [ollama](https://ollama.com/)
