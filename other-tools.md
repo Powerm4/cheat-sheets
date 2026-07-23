@@ -470,6 +470,11 @@ Create a new folder on your Windows Desktop (or in any other folder that you mig
 56. [john](https://github.com/openwall/john)
 57. [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 
+# Embedded
+
+1. [EEZ Studio](https://github.com/eez-open/studio)
+2. [LVGL](https://github.com/lvgl/lvgl)
+
 # Misc Repos
 
 1. [Git](https://github.com/git/git) - [lore](https://github.com/EpicGames/lore) - [Jujutsu](https://github.com/jj-vcs/jj) - [Grace](https://github.com/ScottArbeit/Grace) - [SQLite](https://github.com/sqlite/sqlite) - [fossil-mirror](https://github.com/drhsqlite/fossil-mirror)
