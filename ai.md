@@ -143,7 +143,7 @@
   5. [ollama](https://ollama.com/)
   6. [llama.cpp](https://github.com/ggml-org/llama.cpp)
   7. [vLLM](https://github.com/vllm-project/vllm)
-  8. [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+  8. [ComfyUI](https://github.com/comfy-org/comfyui)
   9. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
   10. [Jan](https://jan.ai/)
   11. []()
