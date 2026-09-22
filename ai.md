@@ -66,18 +66,15 @@
   16. [agent-reach](https://github.com/Panniantong/agent-reach)
 
 - ## AI App Builders — Web
-  1. [v0](https://v0.dev/)
-  2. [Lovable](https://lovable.dev/)
-  3. [Bolt](https://bolt.new/)
-  4. [Replit](https://replit.com/)
-  5. [Dactyl](https://dactyl.dev/) - [Rork](https://rork.app/) - [a0](https://a0.dev/) - [Kiki](https://www.kiki.dev/)
-  6. [Google AI Studio](https://aistudio.google.com/) - [Stitch](https://stitch.withgoogle.com/)
-  7. [Atoms](https://atoms.dev/)
-  8. [Meku](https://meku.dev/) - [Capacity](https://capacity.so/) - [Trickle](https://trickle.so/)
-  9. [IDE by Bind AI](https://www.getbind.co/)
-  10. [Builder.io](https://www.builder.io/)
-  11. [Softgen](https://softgen.ai/)
-  12. [MarsX](https://marsx.dev/)
+  1. [v0](https://v0.dev/) - [Lovable](https://lovable.dev/) - [Bolt](https://bolt.new/) - [Replit](https://replit.com/)
+  2. [Dactyl](https://dactyl.dev/) - [Rork](https://rork.app/) - [a0](https://a0.dev/) - [Kiki](https://www.kiki.dev/)
+  3. [Google AI Studio](https://aistudio.google.com/) - [Stitch](https://stitch.withgoogle.com/)
+  4. [Atoms](https://atoms.dev/)
+  5. [Meku](https://meku.dev/) - [Capacity](https://capacity.so/) - [Trickle](https://trickle.so/)
+  6. [IDE by Bind AI](https://www.getbind.co/)
+  7. [Builder.io](https://www.builder.io/)
+  8. [Softgen](https://softgen.ai/)
+  9. [MarsX](https://marsx.dev/)
 
 - ## AI App Builders — Native
   1. [Codex Desktop](https://chatgpt.com/codex) - [Codex CLI](https://github.com/openai/codex) - [Claude Code](https://claude.com/download) - [Claude Code CLI](https://github.com/anthropics/claude-code)
